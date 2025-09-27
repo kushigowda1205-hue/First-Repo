@@ -1,0 +1,8 @@
+Basics of databases & RDBMS
+Creating tables (CREATE)
+Inserting data (INSERT)
+Retrieving data (SELECT)
+Updating data (UPDATE)
+Deleting data (DELETE, DROP)
+Filtering with WHERE, ORDER BY, GROUP BY
+Using Primary Key, Foreign Key and constraints

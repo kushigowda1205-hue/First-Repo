@@ -1,0 +1,6 @@
+891 passengers, 12 columns, missing data (177 Ages, 687 Cabins).
+38% survived, avg age ~30, fares $0-$512.
+Mostly 3rd class (491), male (577), from Southampton (644).
+Charts: Young adults (20-30) common, high fares rare, kids survived more, class/fare linked to survival.
+Findings: Rich, women, kids survived best (74% vs. 19% men); small families helped.
+Skills: Used Python (Pandas, Seaborn) for charts and trends.
